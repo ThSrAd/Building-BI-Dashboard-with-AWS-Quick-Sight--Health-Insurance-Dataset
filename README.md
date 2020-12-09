@@ -8,22 +8,9 @@ The Office of Enterprise Data and Analytics, within the Centers for Medicare & M
 ### Goal for this project is to analyze data health insurance data and help understand what type of apps are likely to attract more users.</span>
 
 ### Table of Contents
-* About dataset
-* Exploring the Data
-* Most Common Apps by Genre
-* Most Popular Apps by Genre on the App Store
-* Most Popular Apps by Genre on Google Play
-* Conclusion/Findings
+* STEPS TO LOAD CSV FILE INTO S3
 
-### Exploring the Data
-As of September 2018, there were approximately 2 million iOS apps available on the App Store, and 2.1 million Android apps on Google Play.
-
-Collecting data for over four million apps requires a significant amount of time and money, so we'll try to analyze an existing sample of data. 
-
-* [A data set](https://www.kaggle.com/lava18/google-play-store-apps) containing ~10K records Android apps from Google Play
-* [A data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) containing ~7K iOS apps from App Store
-
-***STEPS TO LOAD CSV FILE INTO S3***
+**STEPS TO LOAD CSV FILE INTO S3**
 * Login into your AWS account, From Services console choose S3
 
 ![image](https://user-images.githubusercontent.com/69738890/101584095-77a94800-39a2-11eb-8c55-fe8f5d2e263b.png)

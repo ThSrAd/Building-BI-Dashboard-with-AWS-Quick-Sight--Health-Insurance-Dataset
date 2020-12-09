@@ -8,7 +8,9 @@ The Office of Enterprise Data and Analytics, within the Centers for Medicare & M
 ### Goal for this project is to analyze data health insurance data and help understand what type of apps are likely to attract more users.</span>
 
 ### Table of Contents
-* STEPS TO LOAD CSV FILE INTO S3
+* Steps to load CSV file into S3
+* Loading data into AWS Quick Insights
+* Data Analysis, story building 
 
 **STEPS TO LOAD CSV FILE INTO S3**
 * Login into your AWS account, From Services console choose S3

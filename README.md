@@ -30,10 +30,10 @@ Collecting data for over four million apps requires a significant amount of time
 * Click on Create Bucket
 ![image](https://user-images.githubusercontent.com/69738890/101584163-a1fb0580-39a2-11eb-99ca-1fad55dd6752.png)
 
-* Upload File from your local into S3
+
 ![image](https://user-images.githubusercontent.com/69738890/101584235-cce55980-39a2-11eb-9fb2-e879bff929ee.png)
 
-
+* Upload File from your local into S3
 ![image](https://user-images.githubusercontent.com/69738890/101584298-f69e8080-39a2-11eb-91df-f18062ea0b13.png)
 
 *
